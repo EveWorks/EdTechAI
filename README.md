@@ -23,11 +23,8 @@ A huge thank you to my amazing team members who made this project possible:
 ## Repository Links
 This project is divided into multiple repositories that work together seamlessly:
 - **Frontend Repo:** [Link to Repo](https://github.com/EveWorks/edunexus)  
-  *Description: Briefly describe what the frontend does and its technologies.*
 - **Backend Repo:** [Link to Repo](https://github.com/EveWorks/edunexus_backend)  
-  *Description: Briefly describe the backend architecture and its key features.*
 - **AI Repo:** [Link to Repo](https://github.com/EveWorks/AlindaAI) 
-  *Description: Overview of additional services or modules that complement the main application.*
 
 ## Architectural Overview
 Our architectural decisions were driven by scalability, maintainability, and performance. Here’s a high-level overview:
